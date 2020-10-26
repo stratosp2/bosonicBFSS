@@ -1,0 +1,42 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{Banks1997}
+T.~Banks, W.~Fischler, S.~H. Shenker, and L.~Susskind, ``{[Formula presented]
+  theory as a matrix model: A conjecture},'' {\em Physical Review D -
+  Particles, Fields, Gravitation and Cosmology} {\bf 55} (1997), no.~8
+  5112--5128, {\tt arXiv:hep-th/9610043v3}.
+
+\bibitem{Hanada2019}
+M.~Hanada, G.~Ishiki, and H.~Watanabe, ``{Partial deconfinement},'' {\em
+  Journal of High Energy Physics} {\bf 2019} (2019), no.~3 {\tt 1812.05494}.
+
+\bibitem{Aharony2004}
+O.~Aharony, J.~Marsano, S.~Minwalla, and T.~Wiseman, ``{Black-hole-black-string
+  phase transitions in thermal (1 + 1)-dimensional supersymmetric Yang-Mills
+  theory on a circle},'' {\em Classical and Quantum Gravity} {\bf 21} (2004),
+  no.~22 5169--5191, {\tt hep-th/0406210}.
+
+\bibitem{Bergner2019}
+G.~Bergner, N.~Bodendorfer, M.~Hanada, E.~Rinaldi, A.~Schafer, and P.~Vranas,
+  ``{Thermal phase transition in Yang-Mills matrix model},'' {\em Journal of
+  High Energy Physics} {\bf 2020} (2019) 53, {\tt 1909.04592}.
+
+\bibitem{Sen1998}
+A.~Sen, ``{An Introduction to Non-perturbative String Theory},'' {\tt
+  arXiv:hep-th/9802051}.
+
+\bibitem{Gregory93}
+R.~Gregory and R.~Laflamme, ``{Black strings and p-branes are unstable},'' {\em
+  Physical Review Letters} {\bf 70} (1993) 2837--2840, {\tt hep-th/9301052}.
+
+\bibitem{Morita2020}
+T.~Morita and H.~Yoshida, ``{Critical dimension and negative specific heat in
+  one-dimensional large- N reduced models},'' {\em Physical Review D} {\bf 101}
+  (2020), no.~10 {\tt 2001.02109v4}.
+
+\bibitem{Mandal2010}
+G.~Mandal, M.~Mahato, and T.~Morita, ``{Phases of one dimensional large N gauge
+  theory in a 1/D expansion},'' {\em Journal of High Energy Physics} {\bf 2010}
+  (2010), no.~2 {\tt 0910.4526}.
+
+\end{thebibliography}\endgroup
